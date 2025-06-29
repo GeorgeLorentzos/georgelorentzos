@@ -1,14 +1,54 @@
-I am a backend developer specializing in Python and Flask, with coding experience since the age of 12. I am committed to building reliable, efficient, and scalable web applications. Currently, I am 17 years old.
+# About Me
 
-Technical Skills
-Backend Frameworks: Flask, Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Bcrypt, Flask-Mail, Flask-SocketIO
+I’m a backend developer with a strong focus on Python and Flask. I started coding at the age of 12, and now, at 17, I'm passionate about building reliable, efficient, and scalable web applications.
 
-Python Libraries: Stripe, Werkzeug, Pydantic, Requests, Pytest, Dotenv, Json, Datetime, Os, Pathlib, Random, Threading, Shutil
+## Technical Skills
 
-Servers & Deployment: Gunicorn, Uvicorn, Nginx, Ngrok, Cloudflare Tunnel
+### Backend Frameworks
+- Flask
+- Flask-SQLAlchemy
+- Flask-Login
+- Flask-WTF
+- Flask-Bcrypt
+- Flask-Mail
+- Flask-SocketIO
 
-Databases & ORM: PostgreSQL, MySQL, SQLite, ORM (Flask-SQLAlchemy)
+### Python Libraries
+- Requests
+- Json
+- Datetime
+- Os
+- Pathlib
+- Random
+- Threading
+- Shutil
+- Dotenv
+- Pydantic
+- Werkzeug
+- Stripe
+- Pytest
 
-Frontend Basics: HTML, CSS, JavaScript, Bootstrap
+### Servers & Deployment
+- Gunicorn
+- Uvicorn
+- Nginx
+- Ngrok
+- Cloudflare Tunnel
 
-Tools & Platforms: Git, Docker, AWS, Microsoft Teams
+### Databases & ORM
+- PostgreSQL
+- MySQL
+- SQLite
+- Flask-SQLAlchemy
+
+### Frontend Basics
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Tools & Platforms
+- Git
+- Docker
+- AWS
+- Microsoft Teams
