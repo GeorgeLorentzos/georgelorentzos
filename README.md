@@ -1,16 +1,14 @@
-## Hi there 👋
+I am a backend developer specializing in Python and Flask, with coding experience since the age of 12. I am committed to building reliable, efficient, and scalable web applications. Currently, I am 17 years old.
 
-<!--
-**GeorgeLorentzos/georgelorentzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
+Backend Frameworks: Flask, Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Bcrypt, Flask-Mail, Flask-SocketIO
 
-Here are some ideas to get you started:
+Python Libraries: Stripe, Werkzeug, Pydantic, Requests, Pytest, Dotenv, Json, Datetime, Os, Pathlib, Random, Threading, Shutil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Servers & Deployment: Gunicorn, Uvicorn, Nginx, Ngrok, Cloudflare Tunnel
+
+Databases & ORM: PostgreSQL, MySQL, SQLite, ORM (Flask-SQLAlchemy)
+
+Frontend Basics: HTML, CSS, JavaScript, Bootstrap
+
+Tools & Platforms: Git, Docker, AWS, Microsoft Teams
