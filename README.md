@@ -1,62 +1,88 @@
-## 🚀 About Me
 
-I'm a **17-year-old backend developer** with a passion for creating robust, scalable web applications. Started my coding journey at **12** and have been building with Python and Flask ever since. I love solving complex problems and turning ideas into reality through clean, efficient code.
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "George Lorentzos"
-        self.age = 17
-        self.role = "Backend Developer"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.passion = "Building scalable web applications"
-        self.currently_learning = ["Advanced Flask patterns", "System design"]
-    
-    def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing together! 🚀"
-```
-
-## 🛠️ Tech Stack
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Framework & Libraries
-- **Flask Ecosystem**: Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Bcrypt, Flask-Mail, Flask-SocketIO
-- **Python Libraries**: Stripe, Werkzeug, Pydantic, Requests, Pytest, Threading, Pandas, Matplotlib.pyplot
-- **Standards**: Dotenv, Json, Datetime, Os, Pathlib, Random, Shutil
-
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Servers**: Gunicorn, Uvicorn, Nginx, Ngrok, Cloudflare Tunnel
-- **Platforms**: AWS, Microsoft Teams integration
-
-### Frontend Essentials
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 🎯 What I'm Working On
-
-- 🔨 Building scalable Flask applications with modern architecture patterns
-- 🧪 Exploring advanced testing strategies with Pytest
-- 🚀 Learning cloud deployment and containerization best practices
-- 📚 Studying system design for large-scale applications
-
-## 💡 Fun Facts
-
-- 🎂 Started coding at 12, now 17 with 5+ years of experience
-- 🐍 Python is my language of choice, but I'm always eager to learn new technologies
-- 🔧 I love optimizing database queries and improving application performance
-- 🌱 Currently exploring microservices architecture and API design patterns
-
----
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>George Lorentzos - Portfolio</title>
+      <link rel="icon" href="images/website_icon.svg">
+      <meta name="author" content="George Lorentzos">
+      <style>
+         :root {
+         --blue: #4daafc;
+         --foreground: #9ba3b4;
+         --background: #0D1117;
+         --header-foreground: #c3d0e5;
+         --codebox: #181f29;
+         }
+         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+         html, body {
+         height: 100%;
+         min-height: 100vh;
+         margin: 0;
+         background: var(--background);
+         color: var(--foreground);
+         display: grid;
+         place-items: center;
+         font-family: 'Montserrat', sans-serif;
+         line-height: 1.6;
+         box-sizing: border-box;
+         }
+         html::-webkit-scrollbar {
+         display: none;
+         }
+         body {
+         padding: 0 15px;
+         }
+         .container {
+         max-width: 600px;
+         width: 100%;
+         padding: 0 15px;
+         border-radius: 8px;
+         text-align: left;
+         }
+         h1 {
+         margin-bottom: 0.5em;
+         color: var(--header-foreground);
+         font-weight: 600;
+         }
+         .section-title {
+         font-weight: 600;
+         margin-top: 1.5em;
+         margin-bottom: 0.4em;
+         color: var(--header-foreground);
+         }
+         p {
+         margin-top: 0.4em;
+         margin-bottom: 0.8em;
+         }
+         a {
+         color: var(--blue);
+         text-decoration: none;
+         }
+         .skills {
+         font-size: 0.9rem;
+         margin: 1rem 0;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h1>George Lorentzos</h1>
+         <p>
+            I am a backend developer specializing in Python and Flask, with coding experience since the age of 12. 
+            I am committed to building reliable, efficient, and scalable web applications. Currently, I am 
+            <span id="age"></span> years old.
+         </p>
+         <div class="section-title">Technical Skills</div>
+         <div class="skills">
+            <p><strong>Backend Frameworks:</strong> Flask, Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Bcrypt, Flask-Mail, Flask-SocketIO</p>
+            <p><strong>Python Libraries:</strong> Stripe, Werkzeug, Pydantic, Requests, Pytest, Dotenv, Json, Datetime, Os, Pathlib, Random, Threading, Shutil</p>
+            <p><strong>Servers & Deployment:</strong> Gunicorn, Uvicorn, Nginx, Ngrok, Cloudflare Tunnel</p>
+            <p><strong>Databases & ORM:</strong> PostgreSQL, MySQL, SQLite, ORM (Flask-SQLAlchemy)</p>
+            <p><strong>Frontend Basics:</strong> HTML, CSS, JavaScript, Bootstrap</p>
+            <p><strong>Tools & Platforms:</strong> Git, Docker, AWS, Microsoft Teams</p>
+         </div>
+         <span>
+   </body>
+</html>
