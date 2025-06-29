@@ -19,6 +19,7 @@
 ![Random](https://img.shields.io/badge/Random-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Threading](https://img.shields.io/badge/Threading-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shutil](https://img.shields.io/badge/Shutil-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-1792C0?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
