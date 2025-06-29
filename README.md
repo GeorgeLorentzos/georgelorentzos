@@ -1,9 +1,3 @@
-# Hi there! 👋 I'm George Lorentzos
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Python+Enthusiast;Building+Scalable+Web+Applications;7%2B+Years+of+Coding+Experience;Always+Learning+%26+Growing" alt="Typing SVG" />
-</div>
-
 ## 🚀 About Me
 
 I'm a **17-year-old backend developer** with a passion for creating robust, scalable web applications. Started my coding journey at **12** and have been building with Python and Flask ever since. I love solving complex problems and turning ideas into reality through clean, efficient code.
