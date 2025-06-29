@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm George Lorentzos
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Python+Enthusiast;Building+Scalable+Web+Applications;7%2B+Years+of+Coding+Experience;Always+Learning+%26+Growing" alt="Typing SVG" />
@@ -11,7 +11,7 @@ I'm a **17-year-old backend developer** with a passion for creating robust, scal
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "George Lorentzos"
         self.age = 17
         self.role = "Backend Developer"
         self.languages = ["Python", "JavaScript", "SQL"]
@@ -33,7 +33,7 @@ class Developer:
 
 ### Framework & Libraries
 - **Flask Ecosystem**: Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Bcrypt, Flask-Mail, Flask-SocketIO
-- **Python Libraries**: Stripe, Werkzeug, Pydantic, Requests, Pytest, Threading
+- **Python Libraries**: Stripe, Werkzeug, Pydantic, Requests, Pytest, Threading, Pandas, Matplotlib.pyplot
 - **Standards**: Dotenv, Json, Datetime, Os, Pathlib, Random, Shutil
 
 ### DevOps & Deployment
@@ -51,37 +51,12 @@ class Developer:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
-
 ## 🎯 What I'm Working On
 
 - 🔨 Building scalable Flask applications with modern architecture patterns
 - 🧪 Exploring advanced testing strategies with Pytest
 - 🚀 Learning cloud deployment and containerization best practices
 - 📚 Studying system design for large-scale applications
-
-## 🌟 Featured Projects
-
-### 🏆 [Project Name 1](link-to-repo)
-**Tech Stack**: Flask, PostgreSQL, Docker
-- Brief description of what the project does
-- Key features and achievements
-- Live demo link (if available)
-
-### 🏆 [Project Name 2](link-to-repo)
-**Tech Stack**: Flask, SQLite, Bootstrap
-- Brief description of what the project does
-- Key features and achievements
-- Live demo link (if available)
 
 ## 💡 Fun Facts
 
@@ -90,28 +65,10 @@ class Developer:
 - 🔧 I love optimizing database queries and improving application performance
 - 🌱 Currently exploring microservices architecture and API design patterns
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
 
 <div align="center">
