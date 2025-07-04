@@ -1,43 +1,45 @@
-![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://custom-icon-badges.demolab.com/badge/Flask-000000?logo=flask&logoColor=white)
-![Flask-SQLAlchemy](https://custom-icon-badges.demolab.com/badge/Flask--SQLAlchemy-000000?logo=flask&logoColor=white)
-![Flask-Login](https://custom-icon-badges.demolab.com/badge/Flask--Login-000000?logo=flask&logoColor=white)
-![Flask-WTF](https://custom-icon-badges.demolab.com/badge/Flask--WTF-000000?logo=flask&logoColor=white)
-![Flask-Bcrypt](https://custom-icon-badges.demolab.com/badge/Flask--Bcrypt-000000?logo=flask&logoColor=white)
-![Flask-Mail](https://custom-icon-badges.demolab.com/badge/Flask--Mail-000000?logo=flask&logoColor=white)
-![Flask-SocketIO](https://custom-icon-badges.demolab.com/badge/Flask--SocketIO-000000?logo=flask&logoColor=white)
-![Werkzeug](https://custom-icon-badges.demolab.com/badge/Werkzeug-009485?logo=python&logoColor=white)
-![Stripe](https://custom-icon-badges.demolab.com/badge/Stripe-626CD9?logo=stripe&logoColor=white)
-![Pydantic](https://custom-icon-badges.demolab.com/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![Requests](https://custom-icon-badges.demolab.com/badge/Requests-2CA5E0?logo=python&logoColor=white)
-![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Dotenv](https://custom-icon-badges.demolab.com/badge/Dotenv-ECD53F?logo=python&logoColor=black)
-![JSON](https://custom-icon-badges.demolab.com/badge/JSON-000000?logo=json&logoColor=white)
-![Datetime](https://custom-icon-badges.demolab.com/badge/Datetime-3776AB?logo=python&logoColor=white)
-![OS](https://custom-icon-badges.demolab.com/badge/OS-3776AB?logo=python&logoColor=white)
-![Pathlib](https://custom-icon-badges.demolab.com/badge/Pathlib-3776AB?logo=python&logoColor=white)
-![Random](https://custom-icon-badges.demolab.com/badge/Random-3776AB?logo=python&logoColor=white)
-![Threading](https://custom-icon-badges.demolab.com/badge/Threading-3776AB?logo=python&logoColor=white)
-![Shutil](https://custom-icon-badges.demolab.com/badge/Shutil-3776AB?logo=python&logoColor=white)
-![APScheduler](https://custom-icon-badges.demolab.com/badge/APScheduler-1792C0?logo=python&logoColor=white)
-![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-4B8BBE?logo=seaborn&logoColor=white)
-![QRCode](https://custom-icon-badges.demolab.com/badge/QR_Code-000000?logo=qr-code&logoColor=white)
-![Gunicorn](https://custom-icon-badges.demolab.com/badge/Gunicorn-499848?logo=gunicorn&logoColor=white)
-![Uvicorn](https://custom-icon-badges.demolab.com/badge/Uvicorn-459DB9?logo=uvicorn&logoColor=white)
-![Nginx](https://custom-icon-badges.demolab.com/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Ngrok](https://custom-icon-badges.demolab.com/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)
-![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![SQLite](https://custom-icon-badges.demolab.com/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
-![Microsoft Teams](https://custom-icon-badges.demolab.com/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)
-![Google Meet](https://custom-icon-badges.demolab.com/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--SQLAlchemy-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--Login-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--WTF-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--Bcrypt-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--Mail-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask--SocketIO-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Werkzeug-009485?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Stripe-626CD9?logo=stripe&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pydantic-E92063?logo=pydantic&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Requests-2CA5E0?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Dotenv-ECD53F?logo=python&logoColor=black" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/JSON-000000?logo=json&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Datetime-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OS-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pathlib-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Random-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Threading-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Shutil-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/APScheduler-1792C0?logo=python&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458?logo=pandas&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-4B8BBE?logo=seaborn&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/QR_Code-000000?logo=qr-code&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Uvicorn-459DB9?logo=uvicorn&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009639?logo=nginx&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F28020?logo=cloudflare&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-005C84?logo=mysql&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E?logo=sqlite&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white" height="28"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white" height="28"/>
+</div>
